@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/evalix_web/static/css/main.8ab358f5.css",
-    "main.js": "/evalix_web/static/js/main.23e9c068.js",
-    "static/js/453.6f7aa010.chunk.js": "/evalix_web/static/js/453.6f7aa010.chunk.js",
-    "index.html": "/evalix_web/index.html",
-    "main.8ab358f5.css.map": "/evalix_web/static/css/main.8ab358f5.css.map",
-    "main.23e9c068.js.map": "/evalix_web/static/js/main.23e9c068.js.map",
-    "453.6f7aa010.chunk.js.map": "/evalix_web/static/js/453.6f7aa010.chunk.js.map"
+    "main.css": "/static/css/main.8ab358f5.css",
+    "main.js": "/static/js/main.90ec750c.js",
+    "static/js/453.6f7aa010.chunk.js": "/static/js/453.6f7aa010.chunk.js",
+    "index.html": "/index.html",
+    "main.8ab358f5.css.map": "/static/css/main.8ab358f5.css.map",
+    "main.90ec750c.js.map": "/static/js/main.90ec750c.js.map",
+    "453.6f7aa010.chunk.js.map": "/static/js/453.6f7aa010.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ab358f5.css",
-    "static/js/main.23e9c068.js"
+    "static/js/main.90ec750c.js"
   ]
 }
